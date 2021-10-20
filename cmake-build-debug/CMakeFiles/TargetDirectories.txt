@@ -1,0 +1,3 @@
+/Users/daniiltcannikov/CLionProjects/HomeWork-Fifth-Lecture/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/daniiltcannikov/CLionProjects/HomeWork-Fifth-Lecture/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/daniiltcannikov/CLionProjects/HomeWork-Fifth-Lecture/cmake-build-debug/CMakeFiles/HomeWork_Fifth_Lecture.dir
